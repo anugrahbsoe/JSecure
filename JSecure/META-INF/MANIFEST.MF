@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: jsecure.MenuUtama
+
+Name: common
+Implementation-Vendor: MySQL AB
+Specification-Title: JDBC
+Implementation-Title: MySQL Connector/J
+Implementation-Version: 3.1.11
+Specification-Version: 3.0
+Specification-Vendor: Sun Microsystems Inc.
+

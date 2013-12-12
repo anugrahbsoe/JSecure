@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/JTattoo.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/jcalendar.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/mysql-connector-java-3.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/SimpleTable-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/eclipse.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/fest-swing-1.0b1-sources.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/fest-swing-1.2rc.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/flamingo-6.2.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/flamingo-tst.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/forms-1.3.0pre4.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/javasvn-0.8.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/Jurassic.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/substance.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/substance-6.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/trident-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/Report/jasperreports-4.7.0.jar"/>
+	<classpathentry kind="lib" path="JTextFieldMakeOver.jar"/>
+	<classpathentry kind="lib" path="wordpress-eecchhoo-jpanelimagebackground.jar"/>
+	<classpathentry kind="lib" path="/home/newbieilmu/workspace/app.newbieilmu/src/AddOn/IconMakeOver.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
