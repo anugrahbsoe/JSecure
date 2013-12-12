@@ -1,0 +1,11 @@
+                          Using JSecure on Linux
+
+   Running JSecure for first time:
+   1. First check Java is installed or not. Type Terminal and
+       type java -version.
+   2. If java is not installed or it's version in not 1.6 (Java 6)
+       then install the latest version from "http://www.java.com/getjava" .
+   3. Open Terminal and goto the directory where JSecure.jar is 
+       placed using cd command.
+   4. Type java -jar JSecure.jar to run JSecure for the first time.
+   5. Now you can create a Shortcut on your Desktop.
